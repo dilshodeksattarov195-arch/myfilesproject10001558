@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaseutringify",
+        "uuid": 6384684,
+        "checksum": "flbjps"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
